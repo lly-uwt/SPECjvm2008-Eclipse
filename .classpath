@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="spec"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-10">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/janino.jar"/>
+	<classpathentry kind="lib" path="lib/javac.jar"/>
+	<classpathentry kind="lib" path="lib/jcommon-1.0.9.jar"/>
+	<classpathentry kind="lib" path="lib/jfreechart-1.0.5.jar"/>
+	<classpathentry kind="lib" path="lib/jl1.0.jar"/>
+	<classpathentry kind="lib" path="lib/sunflow.jar"/>
+	<classpathentry kind="lib" path="lib/Tidy.jar"/>
+	<classpathentry kind="lib" path="lib/xom-1.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
