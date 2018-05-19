@@ -2,8 +2,9 @@
 public class Main {
 
 	public static void main(String[] args) {
+	    
 		String[] params = new String[13];
-		params[0] = "scimark.fft.small";
+		params[0] = args[0];
 		params[1] = "-ict";
 		params[2] = "-ikv";
 		params[3] = "-crf";
