@@ -4,7 +4,8 @@ Running [SPECjvm2008](https://www.spec.org/jvm2008) in the Eclipse project
 ## Exporting/building jar file note:
 ⚡ [resources](resources/) folder need to be in the same directory with the jar file in order to run.
 
-⚡ [org](org/) and [javazoom](javazoom/) for building a jar file (not runnable jar) in order to run derby and mpegaudio benchmarks.
+### Docs:
+[https://www.spec.org/jvm2008/docs/benchmarks/](https://www.spec.org/jvm2008/docs/benchmarks/)
 
 ### Options:
 |Arg|Long arg|Value|Property name|Description|
